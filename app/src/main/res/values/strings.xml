@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LnG</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoicGFsYWtzaGFybWEiLCJhIjoiY2w0NWhhNXgyMDB2aTNibzhlc3ZwNXY3ciJ9.nV0nvKMiw2HZ7y_WRBtS0w</string>
+</resources>
